@@ -14,16 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lihaha-cq&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihaha-cq&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=lihaha-cq&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lihaha-cq/lihaha-cq/output/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
